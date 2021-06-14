@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Projeto_Max_Inf_Review
 {
-    class ConfigBaseDeDados //Teste, teste
+    class ConfigBaseDeDados //Teste, teste, TESTE
     {
         private readonly FormDbConfig formDbconfig;
         private static ConfigBaseDeDados config;
